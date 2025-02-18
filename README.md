@@ -34,4 +34,10 @@ cd Customer_Movie_recommender_system
 4)Voila! 🎉
 Open the URL shown in the terminal to access your Movie Recommendation System in your browser.
 
+`NOTE-` If you cant able to run app.py file in streamlit run the file after connecting your PC to VPN bcs of TMDB website accesing error.
+# sample Output
+![Screenshot 2025-02-18 135435](https://github.com/user-attachments/assets/0008c637-d144-4b2c-835d-dde5710b6c40)
+
+
+
 
