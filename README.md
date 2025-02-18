@@ -23,16 +23,18 @@ git clone https://github.com/Sangu7680/Customer_Movie_recommender_system.git
 
 cd Customer_Movie_recommender_system
 
-2)Download a similarity.pkl(modelfile) And Place it inside the Root Folder Of the Repo (
-2)Install Required Dependencies
+2)Download a similarity.pkl(modelfile) Which is present in zip file And Place it inside the Root Folder Of the Repo (https://github.com/Sangu7680/Customer_Movie_recommender_system/releases/tag/v1.0)
+
+
+3)Install Required Dependencies
 
 `pip install -r requirements.txt`
 
-3)Run the Streamlit App
+4)Run the Streamlit App
 
 `streamlit run app.py`
 
-4)Voila! 🎉
+5)Voila! 🎉
 Open the URL shown in the terminal to access your Movie Recommendation System in your browser.
 
 `NOTE-` If you cant able to run app.py file in streamlit run the file after connecting your PC to VPN bcs of TMDB website accesing error.
