@@ -24,10 +24,12 @@ git clone https://github.com/Sangu7680/Customer_Movie_recommender_system.git
 cd Customer_Movie_recommender_system
 
 2)Install Required Dependencies
-pip install -r requirements.txt
+
+`pip install -r requirements.txt`
 
 3)Run the Streamlit App
-streamlit run app.py
+
+`streamlit run app.py`
 
 4)Voila! 🎉
 Open the URL shown in the terminal to access your Movie Recommendation System in your browser.
