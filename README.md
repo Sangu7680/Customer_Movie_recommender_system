@@ -13,5 +13,23 @@ Learning from user interactions for better recommendations over time.
 Technologies Used
 Python (NumPy, Pandas, scikit-learn)
 Streamlit (for UI)
-TfidfVectorizer (for text-based feature extraction).
+CountVectorizer (for text-based feature extraction).
+
+# Steps To Setup And Run In Your PC.
+Make Sure You Have Python And PIP Installed!
+
+1)Clone the Repository-
+git clone https://github.com/Sangu7680/Customer_Movie_recommender_system.git
+
+cd Customer_Movie_recommender_system
+
+2)Install Required Dependencies
+pip install -r requirements.txt
+
+3)Run the Streamlit App
+streamlit run app.py
+
+4)Voila! 🎉
+Open the URL shown in the terminal to access your Movie Recommendation System in your browser.
+
 
