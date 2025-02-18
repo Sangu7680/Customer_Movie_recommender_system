@@ -23,6 +23,7 @@ git clone https://github.com/Sangu7680/Customer_Movie_recommender_system.git
 
 cd Customer_Movie_recommender_system
 
+2)Download a similarity.pkl(modelfile) And Place it inside the Root Folder Of the Repo (
 2)Install Required Dependencies
 
 `pip install -r requirements.txt`
